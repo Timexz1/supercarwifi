@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625364907021",
+    "firebase_url": "https://carwifi-c86ae-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "carwifi-c86ae",
+    "storage_bucket": "carwifi-c86ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625364907021:android:11eef1daaf869287665144",
+        "android_client_info": {
+          "package_name": "com.example.supercarwifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625364907021-235pqj214apsed3epl3vsovlrc26tgpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_MUMhM0jOCkbLPZMYWABVDFJ1B7xhx0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625364907021-235pqj214apsed3epl3vsovlrc26tgpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
